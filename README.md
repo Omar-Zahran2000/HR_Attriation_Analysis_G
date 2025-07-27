@@ -68,6 +68,7 @@ The workflow includes:
 ###  Random Forest: Feature Importances for Employee Leaving
 ![alt text](output_152_0.png)
 *The most important features for predicting employee attrition were last evaluation score, number of projects, and tenure. These factors likely interact in complex ways to influence whether an employee stays or leaves.*
+
 ---
 
 ##  Model Performance Summary
