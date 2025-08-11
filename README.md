@@ -50,23 +50,23 @@ The workflow includes:
 ##  Key Visualizations
 
 ###  Satisfaction by Tenure
-![alt text](output_52_0.png)
+![output_52_0](images/output_52_0.png)
 *Employees who left the company tended to have lower satisfaction levels and shorter tenure. Most satisfied long-tenured employees stayed, suggesting satisfaction is a key retention factor.*
 
 ###  Attrition by Department
-![alt text](output_38_0.png)
+![output_38_0](images/output_38_0.png)
 *Departments such as Sales, Technical, and Support had the highest number of employees leaving. This pattern may indicate job dissatisfaction or high-pressure environments in these roles.*
 
 ###  Monthly Hours vs Satisfaction Level
-![alt text](output_60_0.png)
+![output_60_0](images/output_60_0.png)
 *There is a clear cluster of employees with low satisfaction and extremely high or low monthly hours who left the company—indicating a possible burnout or disengagement issue.*
 
 ###  Correlation Heatmap
-![alt text](output_73_0.png)
+![output_73_0](images/output_73_0.png)
 *Satisfaction level and number of projects show moderate correlations with attrition. Most features are weakly correlated, reinforcing the need for machine learning to capture complex interactions.*
 
 ###  Random Forest: Feature Importances for Employee Leaving
-![alt text](output_152_0.png)
+![output_152_0](images/output_152_0.png)
 *The most important features for predicting employee attrition were last evaluation score, number of projects, and tenure. These factors likely interact in complex ways to influence whether an employee stays or leaves.*
 
 ---
